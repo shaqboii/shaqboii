@@ -10,4 +10,4 @@
 <h2>Cybersecurity Projects 🔒🔑</h2>
 <h3>Linux:</h3>
 
-[Linux Hardening Basics](https://github.com/shaqboii/Linux-Hardening-Basics)
+[System Hardening Basics](https://github.com/shaqboii/Linux-Hardening-Basics)
