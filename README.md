@@ -3,9 +3,11 @@
 
 <h3>
 
-  Let's [connect.](www.linkedin.com/in/samiul-haq-b6b161291) <img width="2%" height="2%" alt="image" src="https://github.com/user-attachments/assets/a2238d77-f971-47ca-b77f-538aeae2b755" />
+  <img width="2%" height="2%" alt="image" src="https://github.com/user-attachments/assets/a2238d77-f971-47ca-b77f-538aeae2b755" />  Let's [connect.](www.linkedin.com/in/samiul-haq-b6b161291) 
 
   </h3>
+
+<h3>📧 Contact me: haqs5961@gmail.com </h3>
 
 <h2>Cybersecurity Projects 🔒🔑</h2>
 <h3>Linux: 🐧</h3>
