@@ -13,3 +13,4 @@
 <h3>Linux: 🐧</h3>
 
 - [System Hardening Basics](https://github.com/shaqboii/Linux-Hardening-Basics)
+- [Networking and Reconnaissance](https://github.com/shaqboii/Networking-and-Reconnaissance)
