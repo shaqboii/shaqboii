@@ -3,7 +3,7 @@
 
 <h3>
 
-  <img width="2%" height="2%" alt="image" src="https://github.com/user-attachments/assets/a2238d77-f971-47ca-b77f-538aeae2b755" />  Let's [connect.](www.linkedin.com/in/samiulhaqq) 
+  <img width="2%" height="2%" alt="image" src="https://github.com/user-attachments/assets/a2238d77-f971-47ca-b77f-538aeae2b755" />  Let's [connect.](https://www.linkedin.com/in/samiulhaqq/) 
 
   </h3>
 
