@@ -12,6 +12,10 @@ I’m Samiul Haq, a junior at the University of Texas at San Antonio majoring in
   
  ✉ Contact me: [haqs5961@gmail.com](haqs5961@gmail.com) </h3>
 
+<h3>
+  
+ 📂 [Devpost](https://devpost.com/haqs5961?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)</h3>
+
 <h2>My Projects 💻</h2>
 <h3>Linux 🐧</h3>
 
