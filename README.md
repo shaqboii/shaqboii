@@ -19,3 +19,7 @@
 
 - [Log Sentinel (UTSA Rowdyhacks 2025)](https://github.com/shaqboii/LogSentinel)
 - [Multimodal Document Analyzer (TAMU Datathon 2025)](https://github.com/shaqboii/datathon2025)
+
+<h3>For fun 🎨:</h3>
+
+- [Artle (Wordle variation)](https://github.com/shaqboii/Artle)
