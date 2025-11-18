@@ -14,3 +14,7 @@
 
 - [System Hardening Basics](https://github.com/shaqboii/Linux-Hardening-Basics)
 - [Networking and Reconnaissance](https://github.com/shaqboii/Networking-and-Reconnaissance)
+
+<h3>Hackathons: ⌨</h3>
+- [Log Sentinel (UTSA Rowdyhacks 2025)](https://github.com/shaqboii/LogSentinel)
+- [Multimodal Document Analyzer (TAMU Datathon 2025)](https://github.com/shaqboii/datathon2025)
