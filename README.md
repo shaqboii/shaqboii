@@ -22,6 +22,10 @@ I’m Samiul Haq, a junior at the University of Texas at San Antonio majoring in
 <img width="190" height="170" alt="image" src="https://github.com/user-attachments/assets/b0e0337a-b512-4c53-8ff8-6503e3f6ad7b" />
 
 <h2>My Projects 💻</h2>
+<h3>Windows 🟦</h3>
+
+- [Active Directory Environment Setup](https://github.com/shaqboii/Active-Directory-Environment-Setup) 
+
 <h3>Linux 🐧</h3>
 
 - [System Hardening Basics](https://github.com/shaqboii/Linux-Hardening-Basics)
