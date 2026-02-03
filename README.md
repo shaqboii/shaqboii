@@ -24,7 +24,7 @@ I’m Samiul Haq, a junior at the University of Texas at San Antonio majoring in
 <h2>My Projects 🛠</h2>
 <h3>Windows 🟦</h3>
 
-- [Active Directory Environment Setup](https://github.com/shaqboii/Active-Directory-Environment-Setup) 
+- [Active Directory: Environment Setup](https://github.com/shaqboii/Active-Directory-Environment-Setup) 
 
 <h3>Linux 🐧</h3>
 
