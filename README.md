@@ -1,5 +1,5 @@
 # Hello, I'm Shaq! 👋
-I’m Samiul Haq, a junior at the University of Texas at San Antonio majoring in Cybersecurity. I’m interested in system security, networking, and digital forensics. I am always looking and able to contribute to open-source projects, security labs, and practical learning opportunities.
+I’m Samiul Haq, a junior at the University of Texas at San Antonio majoring in Cybersecurity. I’m interested in security engineering, networking, and digital forensics. I am always looking and able to contribute to open-source projects, security labs, and practical learning opportunities.
 
 <h2>Socials 🔗</h2>
 <h3>
