@@ -10,7 +10,7 @@ I’m Samiul Haq, a junior at the University of Texas at San Antonio majoring in
 
 <h3>
   
- ✉ Contact me: haqs5961@gmail.com </h3>
+ 📩 Contact me: haqs5961@gmail.com </h3>
 
 <h3>
   
