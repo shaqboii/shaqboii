@@ -32,6 +32,7 @@ I’m Samiul Haq, a junior at the University of Texas at San Antonio majoring in
 
 - [System Hardening Basics](https://github.com/shaqboii/Linux-Hardening-Basics)
 - [Networking and Reconnaissance](https://github.com/shaqboii/Networking-and-Reconnaissance)
+- [Intro to John the Ripper](https://github.com/shaqboii/JtR)
 
 <h3>Hackathons 👾</h3>
 
