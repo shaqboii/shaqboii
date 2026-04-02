@@ -24,7 +24,7 @@ I’m Samiul Haq, a junior at the University of Texas at San Antonio majoring in
 <h2>My Projects 🛠</h2>
 <h3>Windows 🟦</h3>
 
-- [**Active Directory**: Environment Setup (Domain Controller, Client PC)](https://github.com/shaqboii/Active-Directory-Environment-Setup)
+- [**Active Directory**: Environment Setup (Domain Controller, Client PC, OUs, Users)](https://github.com/shaqboii/Active-Directory-Environment-Setup)
 - [**Active Directory**: Group Policy Hardening (Password Policy, Account Lockout, Software Restrictions, Firewall Config, LAPS)](https://github.com/shaqboii/ActiveDirectoryGroupPolicyHardening)
 - [**Active Directory**: Deploying an SIEM and a Ticketing System (Splunk, Jira)](https://github.com/shaqboii/ActiveDirectorySIEMandTicketing)
 
